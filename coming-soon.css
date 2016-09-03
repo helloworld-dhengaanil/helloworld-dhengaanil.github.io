@@ -1,0 +1,1 @@
+body{font-family:Trebuchet MS;background:orange;font-style:italic;}.notification{text-align:right;}.comment{display:none;}.main{margin-top:20%;text-align:center;font-size:65px;}.sub{margin-left:55%;}.sub:hover+.comment{display:block;width:228px;color:white;background:green;margin-left:60%;}
